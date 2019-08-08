@@ -1,0 +1,15 @@
+Package: nivowaffle
+Title: waffle plot
+Version: 0.0.0.9000
+Author: czx<https://www.czxa.top>
+Authors@R: person("czx", email = "czxjnu@163.com", role = c("aut", "cre"))
+Description: waffle plot
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    htmltools,
+    htmlwidgets,
+    reactR
+RoxygenNote: 6.1.1
+Date: 2019-03-11

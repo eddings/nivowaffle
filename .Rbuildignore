@@ -1,0 +1,6 @@
+^README\.Rmd$
+^LICENSE\.md$
+^node_modules$
+^srcjs$
+^nivowaffle\.Rproj$
+^\.Rproj\.user$
